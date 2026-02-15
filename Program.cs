@@ -2,5 +2,5 @@
 Console.WriteLine("Hello, World!");
 //Proyecto EjercicioGit
 //Alumna: Jenifer Padilla
-// Fecha de entrega
+// Fecha de entrega: 15/02/2026
 Console.WriteLine("Proyecto funcionando correctamente");
