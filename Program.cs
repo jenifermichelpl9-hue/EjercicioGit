@@ -3,3 +3,4 @@ Console.WriteLine("Hello, World!");
 //Proyecto EjercicioGit
 //Alumna: Jenifer Padilla
 // Fecha de entrega
+Console.WriteLine("Proyecto funcionando correctamente");
